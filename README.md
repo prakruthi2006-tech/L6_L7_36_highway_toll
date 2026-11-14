@@ -1,6 +1,6 @@
 # L6_L7_36: Highway Toll Calculator
 
-**Name:** <Prakruthi.NK>  **SRN:** <PES2UG24AM118>
+**Name:** Prakruthi.NK  **SRN:** PES2UG24AM118
 **Course:** Software Engineering Lab
 
 This repository contains my work for two labs on the same small Python module, a highway toll calculator.
